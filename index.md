@@ -23,15 +23,10 @@ Dr. Shahzad Rasool is an Assistant Professor at [Research Center for Modeling an
 *	SYSE-805 	System Engineering Project Management		Spring 2017
 *	RM-898 	Research Methodology				Fall 2016, Spring 2017
 
-## Research Students
-1. Usama Ahmed 	_PhD CSE_	(2019-Present)
-2. Umar Shahid 	_MS SYSE_ (2019-Present)
-3. Usama Ehtesham 	_MS SYSE_ (2019-Present)
-4. Muhammad Ali Bilal 	_MS SYSE_ (2018-Present)
-5. Zain ul Abideen 	_MS SYSE_ (2018-Present)
-6. Hassam Ahmed Malik	_MS SYSE_ (2018-2020)
-7. Amal Fatemah 	_MS SYSE_ (2018-2019)
-8. Hasnain Rashid 	_MS SYSE_ (2017-2019)
-9. Aroosh Fatima 	_MS SYSE_ (2017-2018 )
-10. Syed Rameez Rehman _MS SYSE_ (2016-2018)
-11. Samin Kainat 	_MS SYSE_ (2016-2017)
+## Education
+* BSc Electrical Engineering, 2003 – 2006  
+ University of Engineering & Technology (UET), Taxila  
+* MSc Communication Engineering, 2007-2009  
+ Technical University of Munich (TUM), Germany
+* PhD (Computer Engineering), 2010 – 2014
+ Nanyang Technological University (NTU), Singapore
