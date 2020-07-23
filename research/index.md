@@ -6,13 +6,13 @@ title: Shahzad Rasool - Research Group
 
 The current focus of my research is on interdisciplinary applications falling under two areas.
 
-### Immersive Interaction  
- #### Chemmersive: Interactive visualization of chemical structures  
+## Immersive Interaction  
+ ### Chemmersive: Interactive visualization of chemical structures  
  <img align="right" width="250" src="../images/chemmersive.png">  
 
 * Integration of spatial skills and conceptual knowledge is essential for comprehension of chemistry concepts. However, model perception along with the understanding of spatial processes and spatial structures of molecules has been a cause of difficulty for students as conventional teaching methods cannot fully aid student comprehension. We investigate if the spatial learning process of   students can be aided by automatically creating a link between 2D representations of chemical structures and 3D molecular visualization. 
 
- #### Multimodal input  
+ ### Multimodal input  
  
   <img align="left" width="220" src="../images/hapticUAV.png">  
 
@@ -26,7 +26,7 @@ The current focus of my research is on interdisciplinary applications falling un
 The aim is to minimize the amount of information exchanged and reduce the network transmission delay so that seamless interaction can be achieved. We investigate the tradeoff that exists between the quality of haptic feedback and cost of such a system. Application scenarios can be envisaged where such tangible video communication can be very useful.  
 <p>&nbsp</p>  
 
- #### Immersive Visualization   
+ ### Immersive Visualization   
  
  <img align="right" width="250" src="../images/sheep.png">  
 
@@ -37,12 +37,12 @@ The aim is to minimize the amount of information exchanged and reduce the networ
 * Can we use low-cost head-mounted displays for immersive visualization to aid drivers? In-house algorithms for navigation are developed and implemented into a proof-of-concept application for AR navigation, within NUST H-12 campus, by placing directions directly in the FOV.  
 <p>&nbsp</p>  
 
-### Vision and Graphics  
- #### Grey is the new RGB?   
+## Vision and Graphics  
+ ### Grey is the new RGB?   
 <img align="right" width="350" src="../images/GANCompress.png">  
 
 * GAN-based image colorization techniques are capable of producing highly realistic color in real-time. Subjective assessment of these approaches has demonstrated that humans are unable to differentiate between a true RGB image and a colorized image. In this work, we evaluate the fidelity of such colorization and for the first time analyze the GAN-based image colorization scheme in the context of image compression. Our analysis shows that the palette (set of colors) recommended by the GAN-based framework is very limited even for highly realistic interactive colorization. We propose two novel methods of automatic palette generation that allows for the GAN-based framework to be useful for image compression. We demonstrate that provided true colors at a few pixel locations, GAN-based approach results in good spread of color to other image regions. Subjective analysis on a number of public datasets shows that the current system has low fidelity but performs better than JPEG at low data rate regimes.  
- #### Few-shot object detection in aerial images  
+ ### Few-shot object detection in aerial images  
 * Object detection has attracted a lot of research due to remarkable breakthroughs in the field of deep learning. Yet it remains only a partially solved problem, with state-of-the-art methods achieving barely satisfactory mean accuracy on benchmarks like MS COCO. The domain shift from real-life images to aerial imagery further adds the limitations of scarcity and disparity of data, large size of images, small size of objects apart from the challenges of scene complexity, variations in size and orientations, class imbalance and crowding of objects, to name a few. We investigate methods of object detection that can handle the such constraints to detect with high accuracy small objects in large images given few training examples while ensuring high computational efficiency.
 
 # Research Students
