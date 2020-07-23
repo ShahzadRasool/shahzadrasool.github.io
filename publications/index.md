@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+title: Shahzad Rasool - Publications
 ---
 
 ### 2020  
