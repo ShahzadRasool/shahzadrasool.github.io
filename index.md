@@ -7,7 +7,7 @@ title: Shahzad Rasool
 <!--![MyImage](images/shahzad.jpg)-->
 
 Assistant Professor  
-Reseach Center for Modelling and Simulation  
+Research Centre for Modelling and Simulation  
 National University of Sciences and Technology, Islamabad  
 Phone: +92 51 9085 5737
 <p>&nbsp;</p>  
