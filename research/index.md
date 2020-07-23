@@ -7,7 +7,9 @@ title: Shahzad Rasool - Research Group
 The current focus of my research is on interdisciplinary applications falling under two areas.
 
 ## Immersive Interaction  
+
  ### Chemmersive: Interactive visualization of chemical structures  
+
  <img align="right" width="250" src="../images/chemmersive.png">  
 
 * Integration of spatial skills and conceptual knowledge is essential for comprehension of chemistry concepts. However, model perception along with the understanding of spatial processes and spatial structures of molecules has been a cause of difficulty for students as conventional teaching methods cannot fully aid student comprehension. We investigate if the spatial learning process of   students can be aided by automatically creating a link between 2D representations of chemical structures and 3D molecular visualization. 
@@ -22,9 +24,9 @@ The current focus of my research is on interdisciplinary applications falling un
 <img align="right" width="240" src="../images/tangibleVideoFlow.jpg">  
 
 * We explore ways of using existing video communication tools to achieve a higher sense of immersion through haptic feedback. Different interaction devices are used by the local user to control a remote haptic devices operated by the remote user. Efficient methods of generating haptic forces are explored. They are derived from the image/video content or transmitted asynchronously eliminating the need to modify existing communication tools.  
-<img align="left" width="200" src="../images/tangibleVideoDemo.png">  
+<img align="left" width="250" src="../images/tangibleVideoDemo.png">  
 The aim is to minimize the amount of information exchanged and reduce the network transmission delay so that seamless interaction can be achieved. We investigate the tradeoff that exists between the quality of haptic feedback and cost of such a system. Application scenarios can be envisaged where such tangible video communication can be very useful.  
-<p>&nbsp</p>  
+<p></p>  
 
  ### Immersive Visualization   
  
@@ -35,7 +37,7 @@ The aim is to minimize the amount of information exchanged and reduce the networ
 <img align="left" width="350" src="../images/NUSTNav.png">  
 
 * Can we use low-cost head-mounted displays for immersive visualization to aid drivers? In-house algorithms for navigation are developed and implemented into a proof-of-concept application for AR navigation, within NUST H-12 campus, by placing directions directly in the FOV.  
-<p>&nbsp</p>  
+<p></p>  
 
 ## Vision and Graphics  
  ### Grey is the new RGB?   
