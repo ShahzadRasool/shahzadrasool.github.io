@@ -1,3 +1,8 @@
+---
+layout: page
+title: Shahzad Rasool - Research
+---
+
 The current focus of my research is on interdisciplinary applications falling under two areas.
 
 ## 1. Immersive Interaction  
