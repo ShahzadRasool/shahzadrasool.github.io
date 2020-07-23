@@ -23,10 +23,15 @@ Dr. Shahzad Rasool is an Assistant Professor at [Research Center for Modeling an
 *	SYSE-805 	System Engineering Project Management		Spring 2017
 *	RM-898 	Research Methodology				Fall 2016, Spring 2017
 
+## Experience
+* **Fraunhofer IDM @ NTU**, Singapore. Dec ‘12 – Aug ’16 <img src="https://www.fraunhofer.sg/content/dam/singapur/images/logos/fhg-logo-singapore.png" width="60"/>  
+_Research Fellow_ at Visual Immersive Haptic Mathematics (VIHAMAT) Lab.  
+ I worked on projects related to development of efficient algorithms for image-driven haptic rendering using depth information captured by sensors like Leap Motion, Microsoft Kinect, etc. Developed an image-based arthroscopic surgery training simulator through collaboration with the partner hospital following the concept of tangible images.
+
 ## Education
 * BSc Electrical Engineering, 2003 – 2006  
- University of Engineering & Technology (UET), Taxila  
+ University of Engineering & Technology (UET), Taxila <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/UET_Taxila_logo.svg/440px-UET_Taxila_logo.svg.png" width="20"/>  
 * MSc Communication Engineering, 2007-2009  
- Technical University of Munich (TUM), Germany
+ Technical University of Munich (TUM), Germany <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Technical_University_of_Munich_emblem.svg/500px-Technical_University_of_Munich_emblem.svg.png" width="20"/>  
 * PhD (Computer Engineering), 2010 – 2014  
- Nanyang Technological University (NTU), Singapore
+ Nanyang Technological University (NTU), Singapore <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Nanyang_Technological_University_coat_of_arms_vector.svg/300px-Nanyang_Technological_University_coat_of_arms_vector.svg.png" width="20"/>  
