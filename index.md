@@ -28,5 +28,5 @@ Dr. Shahzad Rasool is an Assistant Professor at [Research Center for Modeling an
  University of Engineering & Technology (UET), Taxila  
 * MSc Communication Engineering, 2007-2009  
  Technical University of Munich (TUM), Germany
-* PhD (Computer Engineering), 2010 – 2014
+* PhD (Computer Engineering), 2010 – 2014  
  Nanyang Technological University (NTU), Singapore
