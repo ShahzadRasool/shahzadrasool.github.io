@@ -39,13 +39,13 @@ footer {
 }
 
 ul li{ 
-  margin: 25px 0; 
+  /*margin: 25px 0;*/
   font-size: 1.1em;
   line-height: 1.5;
 }
 
 ol li {
-  margin: 25px 0; 
+  /*margin: 25px 0; */
   font-size: 1.1em;
   line-height: 1.5;
 }
