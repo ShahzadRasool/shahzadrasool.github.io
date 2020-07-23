@@ -1,2 +1,4 @@
 name: Shahzad Rasool
 markdown: kramdown
+
+theme: jekyll-theme-minimal
