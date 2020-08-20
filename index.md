@@ -26,7 +26,6 @@ Dr. Shahzad Rasool is an Assistant Professor at [Research Center for Modeling an
 ## Experience
 * **Fraunhofer IDM @ NTU**, Singapore. Dec ‘12 – Aug ’16  
 _Research Fellow_ at Visual Immersive Haptic Mathematics (VIHAMAT) Lab.  
- I worked on projects related to development of efficient algorithms for image-driven haptic rendering using depth information captured by sensors like Leap Motion, Microsoft Kinect, etc. Developed an image-based arthroscopic surgery training simulator through collaboration with the partner hospital following the concept of tangible images.
 
 ## Education
 * BSc Electrical Engineering, 2003 – 2006  
