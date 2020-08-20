@@ -4,7 +4,7 @@ title: Shahzad Rasool - Publications
 ---
 
 
-* Effect of Haptic Feedback on Pilot/Operator Performance During Flight Simulation, _Applied Sciences_. 2020; 10(11):3877   (**IF: 2.474**)  
+* Effect of Haptic Feedback on Pilot/Operator Performance During Flight Simulation, _Applied Sciences_. 2020; 10(11):3877   (**IF: 2.271**)  
 H. A. Malik, **S. Rasool**, A. Maqsood, R. Riaz  
 
 * Interactive 3D Visualization of Chemical Structure Diagrams Embedded in Text to Aid Spatial Learning Process of Students, _Journal of Chemical Education_. 2020; 97(4):992-1000   (**IF: 1.763**)  
