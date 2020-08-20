@@ -2,7 +2,7 @@
 layout: page
 title: Shahzad Rasool - Research Group
 ---
-# Research Themes
+# Research Areas
 
 The current focus of my research is on interdisciplinary applications falling under two areas.
 
@@ -54,7 +54,7 @@ The current focus of my research is on interdisciplinary applications falling un
   3. Usama Ehtesham 	_MS SYSE_ (2019-Present)
   4. Muhammad Adil Talay _MS_SYSE_ (2018-Present)
   5. Muhammad Ali Bilal 	_MS SYSE_ (2018-Present)
-  6. Zain ul Abideen 	_MS SYSE_ (2018-Present)
+  6. Zain ul Abideen 	_MS SYSE_ (2018-2020)
   7. Hassam Ahmed Malik	_MS SYSE_ (2018-2020)
   8. Amal Fatemah 	_MS SYSE_ (2018-2019)
   9. Hasnain Rashid 	_MS SYSE_ (2017-2019)
