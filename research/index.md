@@ -63,7 +63,8 @@ The current focus of my research is on interdisciplinary applications falling un
   12. Samin Kainat _MS SYSE_ (2016-2017)
   
   
-aa|bb|cc
---|--|--
-ee|ff|gg 
+SNo|Name|Degree|Duration|Title
+--|--|--|--|--
+1|Usama Ahmed|PhD CS&E|2019-2020|Cognitive analysis of Pilots operating UAV
+2|Adil Talay|MS SYSE|2018-2020|Few-shot object detection in remote sensing imagery
 
