@@ -40,12 +40,12 @@ footer {
 
 ul li{ 
   /*margin: 25px 0;*/
-  font-size: 1.0em;
-  line-height: 1.25;
+  font-size: 0.8em;
+  line-height: 1.10;
 }
 
 ol li {
   /*margin: 25px 0; */
-  font-size: 1.0em;
-  line-height: 1.25;
+  font-size: 0.8em;
+  line-height: 1.10;
 }
