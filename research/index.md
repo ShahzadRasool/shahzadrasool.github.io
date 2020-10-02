@@ -62,9 +62,5 @@ The current focus of my research is on interdisciplinary applications falling un
   11. Syed Rameez Rehman _MS SYSE_ (2016-2018)
   12. Samin Kainat _MS SYSE_ (2016-2017)
   
-  
-SNo|Name|Degree|Duration|Title
---|--|--|--|--
-1|Usama Ahmed|PhD CS&E|2019-2020|Cognitive analysis of Pilots operating UAV
-2|Adil Talay|MS SYSE|2018-2020|Few-shot object detection in remote sensing imagery
+
 
