@@ -50,9 +50,9 @@ The current focus of my research is on interdisciplinary applications falling un
 
 # Research Students
   1. Usama Ahmed _PhD CSE_	(2019-Present)
-  2. Umar Shahid _MS SYSE_ (2019-Present)
+  2. Muhammad Ali Bilal	_MS SYSE_ (2018-Present)
   3. Usama Ehtesham _MS SYSE_ (2019-Present)
-  4. Muhammad Ali Bilal	_MS SYSE_ (2018-Present)
+  4. Umar Shahid _MS SYSE_ (2019-2020)
   5. Muhammad Adil Talay _MS SYSE_ (2018-2020)
   6. Zain ul Abideen _MS SYSE_ (2018-2020)
   7. Hassam Ahmed Malik	_MS SYSE_ (2018-2020)
@@ -61,6 +61,3 @@ The current focus of my research is on interdisciplinary applications falling un
   10. Aroosh Fatima _MS SYSE_ (2017-2018 )
   11. Syed Rameez Rehman _MS SYSE_ (2016-2018)
   12. Samin Kainat _MS SYSE_ (2016-2017)
-  
-
-
