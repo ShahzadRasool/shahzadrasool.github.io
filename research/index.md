@@ -49,6 +49,7 @@ The current focus of my research is on interdisciplinary applications falling un
    * Object detection has attracted a lot of research due to remarkable breakthroughs in the field of deep learning. Yet it remains only a partially solved problem, with state-of-the-art methods achieving barely satisfactory mean accuracy on benchmarks like MS COCO. The domain shift from real-life images to aerial imagery further adds the limitations of scarcity and disparity of data, large size of images, small size of objects apart from the challenges of scene complexity, variations in size and orientations, class imbalance and crowding of objects, to name a few. We investigate methods of object detection that can handle such constraints to detect with high accuracy small objects in large images given few training examples while ensuring high computational efficiency.
 
 # Research Students
+ <!--
   1. Usama Ahmed _PhD CSE_	(2019-Present)
   2. Muhammad Ali Bilal	_MS SYSE_ (2018-Present)
   3. Usama Ehtesham _MS SYSE_ (2019-Present)
@@ -61,3 +62,87 @@ The current focus of my research is on interdisciplinary applications falling un
   10. Aroosh Fatima _MS SYSE_ (2017-2018 )
   11. Syed Rameez Rehman _MS SYSE_ (2016-2018)
   12. Samin Kainat _MS SYSE_ (2016-2017)
+-->
+  
+<!DOCTYPE html>
+<html>
+<body>
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Degree</th>
+    <th>Duration</th>
+    <th>Title</th>
+  </tr>
+  <tr>
+    <td>Muhammad Adil Talay</td>
+    <td>PhD CSE</td>
+    <td>2020-Present</td>
+    <td>Robust few shot detection in multi-domain imaging</td>
+  </tr>
+  <tr>
+    <td>Muhammad Ali Bilal</td>
+    <td>MS SYSE</td>
+    <td>2018-Present</td>
+    <td>Cognitive workload assessment in visual and auditory task using EEG signals</td>
+  </tr>
+  <tr>
+    <td>Umar Shahid</td>
+    <td>MS SYSE</td>
+    <td>2019-2020</td>
+    <td>EEG based mental workload assessment using machine learning</td>
+  </tr>
+  <tr>
+    <td>Muhammad Adil Talay</td>
+    <td>MS SYSE</td>
+    <td>2018-2020</td>
+    <td>Few shot metric learning for remote sensing image scene classification</td>
+  </tr>
+  <tr>
+    <td>Zain ul Abideen</td>
+    <td>MS SYSE</td>
+    <td>2018-2020</td>
+    <td>Development of a cost effective training system for small arms shooting training</td>
+  </tr>
+  <tr>
+    <td>Hassam Ahmed Malik</td>
+    <td>MS SYSE</td>
+    <td>2018-2020</td>
+    <td>Effect of haptic feedback on pilot/operator performance during flight simulation
+</td>
+  <tr>
+    <td>Amal Fatemah</td>
+    <td>MS SYSE</td>
+    <td>2018-2019</td>
+    <td>Design of an integrated pipeline for the visualization of 3D molecular models to study the effects on spatial learning ability</td>
+  </tr>
+  <tr>
+    <td>Hasnain Rashid</td>
+    <td>MS SYSE</td>
+    <td>2017-2019</td>
+    <td>Automatic cell detection and counting of microscopic images using machine learning</td>
+  </tr>
+  <tr>
+    <td>Aroosh Fatima</td>
+    <td>MS SYSE</td>
+    <td>2017-2018</td>
+    <td>Using deep learning for image and video compression</td>
+  </tr>
+  <tr>
+    <td>Syed Rameez Rehman</td>
+    <td>MS SYSE</td>
+    <td>2016-2018</td>
+    <td>A framework for Cardboard based augmented reality</td>
+  </tr>
+  <tr>
+    <td>Samin Kainat</td>
+    <td>MS SYSE</td>
+    <td>2016-2017</td>
+    <td>Man made world image matching over wide baselines</td>
+  </tr>
+  
+</table>
+
+</body>
+</html>
