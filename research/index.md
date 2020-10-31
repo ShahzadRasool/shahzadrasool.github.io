@@ -64,9 +64,7 @@ The current focus of my research is on interdisciplinary applications falling un
   12. Samin Kainat _MS SYSE_ (2016-2017)
 -->
   
-<!DOCTYPE html>
-<html>
-<body>
+
 
 <table>
   <tr>
@@ -143,6 +141,3 @@ The current focus of my research is on interdisciplinary applications falling un
   </tr>
   
 </table>
-
-</body>
-</html>
