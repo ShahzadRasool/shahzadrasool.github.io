@@ -49,11 +49,14 @@ The current focus of my research is on interdisciplinary applications falling un
    * Object detection has attracted a lot of research due to remarkable breakthroughs in the field of deep learning. Yet it remains only a partially solved problem, with state-of-the-art methods achieving barely satisfactory mean accuracy on benchmarks like MS COCO. The domain shift from real-life images to aerial imagery further adds the limitations of scarcity and disparity of data, large size of images, small size of objects apart from the challenges of scene complexity, variations in size and orientations, class imbalance and crowding of objects, to name a few. We investigate methods of object detection that can handle such constraints to detect with high accuracy small objects in large images given few training examples while ensuring high computational efficiency.
 
 # Research Students
+## Current Students
   1. Muhammad Adil Talay _PhD CSE_ (2020-Present)
   2. Neelam Shoaib _MS_SYSE_ (2020-Present)
   3. Syeda Yumna Nasir _MS_SYSE_ (2020-Present)
   4. Attia Nafees ul Haq _MS_CSE_ (2020-Present)
   5. Muhammad Ali Bilal	_MS SYSE_ (2018-Present)
+  
+## Previous Students
   6. Umar Shahid _MS SYSE_ (2019-2020)
   7. Muhammad Adil Talay _MS SYSE_ (2018-2020)
   8. Zain ul Abideen _MS SYSE_ (2018-2020)
