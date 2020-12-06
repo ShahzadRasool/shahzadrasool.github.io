@@ -59,21 +59,21 @@ The current focus of my research is on interdisciplinary applications falling un
       Cognitive Workload Analysis in Visual and Auditory task using EEG signals  
   
 ## Previous Students
-  6. **Umar Shahid** (2019-2020)  
+  1. **Umar Shahid** (2019-2020)  
       EEG based mental workload assessment using machine learning  
-  7. **Muhammad Adil Talay** (2018-2020)  
+  2. **Muhammad Adil Talay** (2018-2020)  
       Few Shot Metric Learning for Remote Sensing Image Scene Classification  
-  8. **Zain ul Abideen** (2018-2020)  
+  3. **Zain ul Abideen** (2018-2020)  
       Development of a cost effective training system for small arms shooting training  
-  9. **Hassam Ahmed Malik** (2018-2020)  
+  4. **Hassam Ahmed Malik** (2018-2020)  
       Effect of Haptic Feedback on  Pilot/Operator Performance During Flight Simulation  
-  10. **Amal Fatemah** (2018-2019)  
+  5. **Amal Fatemah** (2018-2019)  
       Design of an integrated pipeline for the visualization of 3D molecular models to study the effects on spatial learning ability  
-  11. **Hasnain Rashid** (2017-2019)  
+  6. **Hasnain Rashid** (2017-2019)  
       Automatic Cell Detection and Counting of Microscopic Images using Machine Learning  
-  12. **Aroosh Fatima** (2017-2018 )  
+  7. **Aroosh Fatima** (2017-2018 )  
       Using Deep Learning for Image and Video Compression  
-  13. **Syed Rameez Rehman** (2016-2018)  
+  8. **Syed Rameez Rehman** (2016-2018)  
       A Framework for Cardboard based Augmented Reality  
-  14. **Samin Kainat** (2016-2017)  
+  9. **Samin Kainat** (2016-2017)  
       Man made world Image Matching over wide Baselines
