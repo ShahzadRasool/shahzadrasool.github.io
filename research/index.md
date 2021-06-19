@@ -51,12 +51,13 @@ The current focus of my research is on interdisciplinary applications falling un
 # Research Students
 ## Current Students
   1. **Muhammad Adil Talay** _PhD CSE_ (2020-Present)
-  2. **Hafsa Tahir** _MS CSE_ (2020-Present)
-  3. **Irsa Abbasi** _MS CSE_ (2020-Present)
-  4. **Neelam Shoaib** _MS SYSE_ (2020-Present)
-  5. **Syeda Yumna Nasir** _MS SYSE_ (2020-Present)
-  6. **Attia Nafees ul Haq** _MS CSE_ (2020-Present)
-  7. **Muhammad Ali Bilal** (2018-Present)  
+  2. **Amna Khan** _MS CSE_ (2021-Present)
+  3. **Hafsa Tahir** _MS CSE_ (2020-Present)
+  4. **Irsa Abbasi** _MS CSE_ (2020-Present)
+  5. **Neelam Shoaib** _MS SYSE_ (2020-Present)
+  6. **Syeda Yumna Nasir** _MS SYSE_ (2020-Present)
+  7. **Attia Nafees ul Haq** _MS CSE_ (2020-Present)
+  8. **Muhammad Ali Bilal** (2018-Present)  
       Cognitive Workload Analysis in Visual and Auditory task using EEG signals  
   
 ## Previous Students
