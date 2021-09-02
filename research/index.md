@@ -59,7 +59,7 @@ The current focus of my research is on interdisciplinary applications falling un
 
   
 ## Previous Students
-  1. **Attia Nafees ul Haq** _MS CSE_ (2020-2021)  
+  1. **Attia Nafees ul Haq** (2020-2021)  
      Pure Mental State Detection Using EEG
   2. **Muhammad Ali Bilal** (2018-2021)  
       Cognitive Workload Analysis in Visual and Auditory task using EEG signals  
