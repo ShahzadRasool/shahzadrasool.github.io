@@ -54,30 +54,31 @@ The current focus of my research is on interdisciplinary applications falling un
   2. **Amna Khan** _MS CSE_ (2021-Present)
   3. **Hafsa Tahir** _MS CSE_ (2020-Present)
   4. **Irsa Abbasi** _MS CSE_ (2020-Present)
-  5. **Neelam Shoaib** _MS SYSE_ (2020-Present)
   6. **Syeda Yumna Nasir** _MS SYSE_ (2020-Present)
 
   
 ## Previous Students
-  1. **Attia Nafees ul Haq** (2020-2021)  
+  1. **Neelam Shoaib** (2020-2021)  
+     Virtual Reality Based Procedural Memorization of General Aviation Light Aircraft
+  3. **Attia Nafees ul Haq** (2020-2021)  
      Pure Mental State Detection Using EEG
-  2. **Muhammad Ali Bilal** (2018-2021)  
+  3. **Muhammad Ali Bilal** (2018-2021)  
       Cognitive Workload Analysis in Visual and Auditory task using EEG signals  
-  3. **Umar Shahid** (2019-2020)  
+  4. **Umar Shahid** (2019-2020)  
       EEG based mental workload assessment using machine learning  
-  4. **Muhammad Adil Talay** (2018-2020)  
+  5. **Muhammad Adil Talay** (2018-2020)  
       Few Shot Metric Learning for Remote Sensing Image Scene Classification  
-  5. **Zain ul Abideen** (2018-2020)  
+  6. **Zain ul Abideen** (2018-2020)  
       Development of a cost effective training system for small arms shooting training  
-  6. **Hassam Ahmed Malik** (2018-2020)  
+  7. **Hassam Ahmed Malik** (2018-2020)  
       Effect of Haptic Feedback on  Pilot/Operator Performance During Flight Simulation  
-  7. **Amal Fatemah** (2018-2019)  
+  8. **Amal Fatemah** (2018-2019)  
       Design of an integrated pipeline for the visualization of 3D molecular models to study the effects on spatial learning ability  
-  8. **Hasnain Rashid** (2017-2019)  
+  9. **Hasnain Rashid** (2017-2019)  
       Automatic Cell Detection and Counting of Microscopic Images using Machine Learning  
-  9. **Aroosh Fatima** (2017-2018 )  
+  10. **Aroosh Fatima** (2017-2018 )  
       Using Deep Learning for Image and Video Compression  
-  10. **Syed Rameez Rehman** (2016-2018)  
+  11. **Syed Rameez Rehman** (2016-2018)  
       A Framework for Cardboard based Augmented Reality  
-  11. **Samin Kainat** (2016-2017)  
+  12. **Samin Kainat** (2016-2017)  
       Man made world Image Matching over wide Baselines
