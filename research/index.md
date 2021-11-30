@@ -54,32 +54,34 @@ The current focus of my research is on interdisciplinary applications falling un
   2. **Hafsa Tahir** _MS CSE_ (2020-Present)
   3. **Irsa Abbasi** _MS CSE_ (2020-Present)
   4. **Syeda Yumna Nasir** _MS SYSE_ (2020-Present)
+  5. **Ahmad Javaid** _MS SYSE_ (2021-Present)
+  6. **Maria Maqbool** _MS SYSE_ (2021-Present)
 
   
 ## Previous Students
   1. **Amna Khan** (2021-2021)  
      Game-induced emotion analysis using electroencephalography
   2. **Neelam Shoaib** (2020-2021)  
-     Virtual Reality Based Procedural Memorization of General Aviation Light Aircraft
+     Virtual reality based procedural memorization of general aviation light aircraft
   3. **Attia Nafees ul Haq** (2020-2021)  
-     Pure Mental State Detection Using EEG
+     Pure mental state detection using EEG
   4. **Muhammad Ali Bilal** (2018-2021)  
-      Cognitive Workload Analysis in Visual and Auditory task using EEG signals  
+      Cognitive workload analysis in visual and auditory task using EEG signals  
   5. **Umar Shahid** (2019-2020)  
       EEG based mental workload assessment using machine learning  
   6. **Muhammad Adil Talay** (2018-2020)  
-      Few Shot Metric Learning for Remote Sensing Image Scene Classification  
+      Few-shot metric learning for remote sensing image scene classification  
   7. **Zain ul Abideen** (2018-2020)  
       Development of a cost effective training system for small arms shooting training  
   8. **Hassam Ahmed Malik** (2018-2020)  
-      Effect of Haptic Feedback on  Pilot/Operator Performance During Flight Simulation  
+      Effect of haptic feedback on pilot/operator performance during flight simulation  
   9. **Amal Fatemah** (2018-2019)  
       Design of an integrated pipeline for the visualization of 3D molecular models to study the effects on spatial learning ability  
   10. **Hasnain Rashid** (2017-2019)  
-      Automatic Cell Detection and Counting of Microscopic Images using Machine Learning  
+      Automatic cell detection and counting of microscopic images using machine learning  
   11. **Aroosh Fatima** (2017-2018 )  
-      Using Deep Learning for Image and Video Compression  
+      Using deep learning for image and video vompression  
   12. **Syed Rameez Rehman** (2016-2018)  
-      A Framework for Cardboard based Augmented Reality  
+      A framework for cardboard based augmented reality  
   13. **Samin Kainat** (2016-2017)  
-      Man made world Image Matching over wide Baselines
+      Man made world image matching over wide baselines
