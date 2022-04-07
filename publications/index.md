@@ -3,7 +3,10 @@ layout: page
 title: Shahzad Rasool - Publications
 ---
 
-* Grey is the new RGB: How good is GAN-based image colorization for image compression? _Multimedia Tools & Applications_. 2020; https://doi.org/10.1007/s11042-020-09861-y (**IF: 2.313**)  
+* Game induced emotion analysis using electroencephalography _Computers in Biology and Medicine_. 2022; 145 https://doi.org/10.1016/j.compbiomed.2022.105441 (**IF: 4.589**)  
+A. Khan, **S. Rasool**
+
+* Grey is the new RGB: How good is GAN-based image colorization for image compression? _Multimedia Tools & Applications_. 2021; 80(3): 3775-3791; https://doi.org/10.1007/s11042-020-09861-y (**IF: 2.313**)  
 A. Fatima, W. Hussain, **S. Rasool**  
 
 * Effect of Haptic Feedback on Pilot/Operator Performance During Flight Simulation, _Applied Sciences_. 2020; 10(11):3877   (**IF: 2.271**)  
