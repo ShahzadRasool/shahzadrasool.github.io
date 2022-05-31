@@ -4,7 +4,7 @@ title: Shahzad Rasool
 ---
 
 Assistant Professor  
-Research Centre for Modelling and Simulation  
+School of Interdisciplinary Engineering and Sciences (SINES)  
 National University of Sciences and Technology, Islamabad  
 Phone: +92 51 9085 5737
 <p>&nbsp;</p>  
