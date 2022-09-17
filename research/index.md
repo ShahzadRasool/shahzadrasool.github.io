@@ -58,9 +58,9 @@ The current focus of my research is on interdisciplinary applications falling un
 
   
 ## Previous Students
-  1. **Ahmad Javaid** _MS SYSE_ (2021-2022)  
+  1. **Ahmad Javaid** (2021-2022)  
      Analysis of vestibulo-ocular effects on motion sickness in flight simulation
-  2. **Syeda Yumna Nasir** _MS SYSE_ (2020-2022)  
+  2. **Syeda Yumna Nasir** (2020-2022)  
      Pseudo-haptic feedback through mid-air action for learning of chemical bond strengths
   3. **Hafsa Tahir** _MS CSE_ (2020-2022)  
      Force feedback for collision avoidance in UAV teleoperation through virtual corridors
