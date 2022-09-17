@@ -53,39 +53,40 @@ The current focus of my research is on interdisciplinary applications falling un
   1. **Muhammad Adil Talay** _PhD CSE_ (2020-Present)
   2. **Amna Khan** _PhD CSE_ (2022-Present)
   3. **Irsa Abbasi** _MS CSE_ (2020-Present)
-  4. **Ahmad Javaid** _MS SYSE_ (2021-Present)
-  5. **Maria Maqbool** _MS SYSE_ (2021-Present)
-  6. **Mian Muhammad Fatik Owais** _MS_SYSE_ (2022-Present)
+  4. **Maria Maqbool** _MS SYSE_ (2021-Present)
+  5. **Mian Muhammad Fatik Owais** _MS_SYSE_ (2022-Present)
 
   
 ## Previous Students
-  1. **Syeda Yumna Nasir** _MS SYSE_ (2020-2022)  
+  1. **Ahmad Javaid** _MS SYSE_ (2021-2022)  
+     Analysis of vestibulo-ocular effects on motion sickness in flight simulation
+  2. **Syeda Yumna Nasir** _MS SYSE_ (2020-2022)  
      Pseudo-haptic feedback through mid-air action for learning of chemical bond strengths
-  2. **Hafsa Tahir** _MS CSE_ (2020-2022)  
+  3. **Hafsa Tahir** _MS CSE_ (2020-2022)  
      Force feedback for collision avoidance in UAV teleoperation through virtual corridors
   4. **Amna Khan** (2021-2021)  
      Game-induced emotion analysis using electroencephalography
-  4. **Neelam Shoaib** (2020-2021)  
+  5. **Neelam Shoaib** (2020-2021)  
      Virtual reality based procedural memorization of general aviation light aircraft
-  5. **Attia Nafees ul Haq** (2020-2021)  
+  6. **Attia Nafees ul Haq** (2020-2021)  
      Pure mental state detection using EEG
-  6. **Muhammad Ali Bilal** (2018-2021)  
+  7. **Muhammad Ali Bilal** (2018-2021)  
       Cognitive workload analysis in visual and auditory task using EEG signals  
-  7. **Umar Shahid** (2019-2020)  
+  8. **Umar Shahid** (2019-2020)  
       EEG based mental workload assessment using machine learning  
-  8. **Muhammad Adil Talay** (2018-2020)  
+  9. **Muhammad Adil Talay** (2018-2020)  
       Few-shot metric learning for remote sensing image scene classification  
-  9. **Zain ul Abideen** (2018-2020)  
+  10. **Zain ul Abideen** (2018-2020)  
       Development of a cost effective training system for small arms shooting training  
-  10. **Hassam Ahmed Malik** (2018-2020)  
+  11. **Hassam Ahmed Malik** (2018-2020)  
       Effect of haptic feedback on pilot/operator performance during flight simulation  
-  11. **Amal Fatemah** (2018-2019)  
+  12. **Amal Fatemah** (2018-2019)  
       Design of an integrated pipeline for the visualization of 3D molecular models to study the effects on spatial learning ability  
-  12. **Hasnain Rashid** (2017-2019)  
+  13. **Hasnain Rashid** (2017-2019)  
       Automatic cell detection and counting of microscopic images using machine learning  
-  13. **Aroosh Fatima** (2017-2018 )  
+  14. **Aroosh Fatima** (2017-2018 )  
       Using deep learning for image and video vompression  
-  14. **Syed Rameez Rehman** (2016-2018)  
+  15. **Syed Rameez Rehman** (2016-2018)  
       A framework for cardboard based augmented reality  
-  15. **Samin Kainat** (2016-2017)  
+  16. **Samin Kainat** (2016-2017)  
       Man made world image matching over wide baselines
