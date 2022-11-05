@@ -55,6 +55,7 @@ The current focus of my research is on interdisciplinary applications falling un
   3. **Irsa Abbasi** _MS CSE_ (2020-Present)
   4. **Maria Maqbool** _MS SYSE_ (2021-Present)
   5. **Mian Muhammad Fatik Owais** _MS_SYSE_ (2022-Present)
+  6. **Kiran Firdaus** _MS_CSE_ (2022-Present)
 
   
 ## Previous Students
