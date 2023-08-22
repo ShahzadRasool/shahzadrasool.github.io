@@ -56,6 +56,9 @@ The current focus of my research is on interdisciplinary applications falling un
   4. **Mian Muhammad Fatik Owais** _MS SYSE_ (2022-Present)
   5. **Amna Naeem** _MS CSE_ (2022-Present)
   6. **Maira Sohail** _MS CSE_ (2022-Present)
+  7. **Urwa Ejaz** _MS CSE_ (2023-Present)
+  8. **Sofia Mohammad** _MS SYSE_ (2023-Present)
+  9. **Raheela Raza** _MS CSE_ (2023 - Present) 
 
 
 ## Previous Students
