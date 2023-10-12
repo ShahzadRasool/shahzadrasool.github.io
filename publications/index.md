@@ -3,6 +3,9 @@ layout: page
 title: Shahzad Rasool - Publications
 ---
 
+* Virtual Reality as a Medium of Asynchronous Content Delivery for Teaching about Enzymes _Journal of Chemical Education_. 2023; 100(3):1203-1210; https://doi.org/10.1016/j.compbiomed.2022.105441 (**IF: 3.000**)  
+I. Abbasi, **S. Rasool**, U. Habib
+
 * Game induced emotion analysis using electroencephalography _Computers in Biology and Medicine_. 2022; 145  
 https://doi.org/10.1016/j.compbiomed.2022.105441 (**IF: 4.589**)  
 A. Khan, **S. Rasool**
