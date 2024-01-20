@@ -53,49 +53,50 @@ The current focus of my research is on interdisciplinary applications falling un
   1. **Muhammad Adil Talay** _PhD CSE_ (2020-Present)
   2. **Amna Khan** _PhD CSE_ (2022-Present)
   3. **Mian Muhammad Fatik Owais** _MS SYSE_ (2022-Present)
-  4. **Amna Naeem** _MS CSE_ (2022-Present)
-  5. **Maira Sohail** _MS CSE_ (2022-Present)
-  6. **Urwa Ejaz** _MS CSE_ (2023-Present)
-  7. **Sofia Mohammad** _MS SYSE_ (2023-Present)
-  8. **Raheela Raza** _MS CSE_ (2023-Present) 
+  4. **Maira Sohail** _MS CSE_ (2022-Present)
+  5. **Urwa Ejaz** _MS CSE_ (2023-Present)
+  6. **Sofia Mohammad** _MS SYSE_ (2023-Present)
+  7. **Raheela Raza** _MS CSE_ (2023-Present) 
 
 
 ## Previous Students
-  1. **Maria Maqbool** (2021-2023)  
+  1. **Amna Naeem** (2022-2023)  
+     Reinforcement Learning Based Agent Training for User Privacy in Metaverse
+  2. **Maria Maqbool** (2021-2023)  
      Empowering eco-friendly habits - Designing interactive virtual environments for attitude and behaviour change towards energy conservation
-  2. **Kiran Firdaus** (2022-2023)  
+  3. **Kiran Firdaus** (2022-2023)  
      Human stress classification using EEG in response to stand-up comedians’ clips
-  3. **Irsa Abbasi** (2020-2023)  
+  4. **Irsa Abbasi** (2020-2023)  
      Developing a virtual reality approach towards a better understanding of different types of enzymes
-  4. **Ahmad Javaid** (2021-2022)  
+  5. **Ahmad Javaid** (2021-2022)  
      Analysis of vestibulo-ocular effects on motion sickness in flight simulation
-  5. **Syeda Yumna Nasir** (2020-2022)  
+  6. **Syeda Yumna Nasir** (2020-2022)  
      Pseudo-haptic feedback through mid-air action for learning of chemical bond strengths
-  6. **Hafsa Tahir** _MS CSE_ (2020-2022)  
+  7. **Hafsa Tahir** _MS CSE_ (2020-2022)  
      Force feedback for collision avoidance in UAV teleoperation through virtual corridors
-  7. **Amna Khan** (2021-2021)  
+  8. **Amna Khan** (2021-2021)  
      Game-induced emotion analysis using electroencephalography
-  8. **Neelam Shoaib** (2020-2021)  
+  9. **Neelam Shoaib** (2020-2021)  
      Virtual reality based procedural memorization of general aviation light aircraft
-  9. **Attia Nafees ul Haq** (2020-2021)  
+  10. **Attia Nafees ul Haq** (2020-2021)  
      Pure mental state detection using EEG
-  10. **Muhammad Ali Bilal** (2018-2021)  
-      Cognitive workload analysis in visual and auditory task using EEG signals  
-  11. **Umar Shahid** (2019-2020)  
+  11. **Muhammad Ali Bilal** (2018-2021)  
+     Cognitive workload analysis in visual and auditory task using EEG signals  
+  12. **Umar Shahid** (2019-2020)  
       EEG based mental workload assessment using machine learning  
-  12. **Muhammad Adil Talay** (2018-2020)  
+  13. **Muhammad Adil Talay** (2018-2020)  
       Few-shot metric learning for remote sensing image scene classification  
-  13. **Zain ul Abideen** (2018-2020)  
+  14. **Zain ul Abideen** (2018-2020)  
       Development of a cost effective training system for small arms shooting training  
-  14. **Hassam Ahmed Malik** (2018-2020)  
+  15. **Hassam Ahmed Malik** (2018-2020)  
       Effect of haptic feedback on pilot/operator performance during flight simulation  
-  15. **Amal Fatemah** (2018-2019)  
+  16. **Amal Fatemah** (2018-2019)  
       Design of an integrated pipeline for the visualization of 3D molecular models to study the effects on spatial learning ability  
-  16. **Hasnain Rashid** (2017-2019)  
+  17. **Hasnain Rashid** (2017-2019)  
       Automatic cell detection and counting of microscopic images using machine learning  
-  17. **Aroosh Fatima** (2017-2018 )  
+  18. **Aroosh Fatima** (2017-2018 )  
       Using deep learning for image and video vompression  
-  18. **Syed Rameez Rehman** (2016-2018)  
+  19. **Syed Rameez Rehman** (2016-2018)  
       A framework for cardboard based augmented reality  
-  19. **Samin Kainat** (2016-2017)  
+  20. **Samin Kainat** (2016-2017)  
       Man made world image matching over wide baselines
