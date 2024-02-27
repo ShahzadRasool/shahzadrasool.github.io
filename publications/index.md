@@ -2,7 +2,7 @@
 layout: page
 title: Shahzad Rasool - Publications
 ---
-* Analysis of Visual and Vestibular Information on Motion Sickness in Flight Simulation _Aerospace_. 2024; 11(2):139;
+* Analysis of Visual and Vestibular Information on Motion Sickness in Flight Simulation _Aerospace_. 2024; 11(2):139;  
 https://doi.org/10.3390/aerospace11020139 (**IF: 2.600**)  
 A. Javaid, **S. Rasool**, A. Maqsood
 
