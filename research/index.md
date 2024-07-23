@@ -55,6 +55,7 @@ The current focus of my research is on interdisciplinary applications falling un
   3. **Maira Sohail** _MS CSE_ (2022-Present)
   4. **Urwa Ejaz** _MS CSE_ (2023-Present)
   5. **Raheela Raza** _MS CSE_ (2023-Present)
+  6. **Fiza Azam** _MS AI_ (2023-Present)
 
 
 ## Previous Students
