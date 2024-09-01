@@ -3,7 +3,7 @@ layout: page
 title: Shahzad Rasool
 ---
 
-<img align="right" width="240" src="../images/self.jpeg">  
+<img align="left" width="180" src="../images/self.jpeg">  
  Assistant Professor  
 School of Interdisciplinary Engineering and Sciences (SINES)  
 National University of Sciences and Technology, Islamabad  
@@ -20,7 +20,7 @@ _Assistant Professor_ at School of Interdisciplinary Engineering and Sciences (S
 _Research Fellow_ at Visual Immersive Haptic Mathematics (VIHAMAT) Lab.  
 
 ## Education
-* <img align="right" width="100" src="https://www.ntu.edu.sg/images/default-source/corporate/ntu_logo.png?sfvrsn=b5dd1d82_5">PhD (Computer Engineering), 2010 – 2014  
+* PhD (Computer Engineering), 2010 – 2014  
   Nanyang Technological University (NTU), Singapore
 * <img align="right" width="60" src="https://www.cda.cit.tum.de//img/tum-logo.png"> MSc Communication Engineering, 2007-2009  
   Technical University of Munich (TUM), Germany  
