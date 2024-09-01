@@ -3,7 +3,8 @@ layout: page
 title: Shahzad Rasool
 ---
 
-Assistant Professor  
+<img align="right" width="240" src="../images/self.jpeg">  
+ Assistant Professor  
 School of Interdisciplinary Engineering and Sciences (SINES)  
 National University of Sciences and Technology, Islamabad  
 Phone: +92 51 9085 5737
