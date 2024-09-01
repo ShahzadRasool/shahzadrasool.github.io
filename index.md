@@ -3,7 +3,7 @@ layout: page
 title: Shahzad Rasool
 ---
 
-<img align="left" width="180" src="../images/self.jpeg">  
+<img align="left" width="130" src="../images/self.jpeg">  
  Assistant Professor  
 School of Interdisciplinary Engineering and Sciences (SINES)  
 National University of Sciences and Technology, Islamabad  
