@@ -21,11 +21,9 @@ _Research Fellow_ at Visual Immersive Haptic Mathematics (VIHAMAT) Lab.
 
 ## Education
 * Nanyang Technological University (NTU), Singapore  
-  PhD (Computer Engineering), 2010 – 2014  
-  
+  PhD (Computer Engineering), 2010 – 2014    
 * Technical University of Munich (TUM), Germany  
   MSc Communication Engineering, 2007-2009  
-
 * University of Engineering & Technology (UET), Taxila  
   BSc Electrical Engineering, 2003 – 2006  
   
