@@ -20,12 +20,15 @@ _Assistant Professor_ at School of Interdisciplinary Engineering and Sciences (S
 _Research Fellow_ at Visual Immersive Haptic Mathematics (VIHAMAT) Lab.  
 
 ## Education
-* <img align="left" width="70" src="https://www.ntu.edu.sg/images/default-source/corporate/ntu_logo.png?sfvrsn=b5dd1d82_5"> PhD (Computer Engineering), 2010 – 2014  
-  Nanyang Technological University (NTU), Singapore
-* <img align="left" width="70" src="https://www.cda.cit.tum.de//img/tum-logo.png"> MSc Communication Engineering, 2007-2009  
-  Technical University of Munich (TUM), Germany  
-* <img align="left" width="70" src="https://www.uettaxila.edu.pk/images/Logos/uettaxila_logo.png"> BSc Electrical Engineering, 2003 – 2006  
-  University of Engineering & Technology (UET), Taxila  
+* Nanyang Technological University (NTU), Singapore  
+  PhD (Computer Engineering), 2010 – 2014  
+  
+* Technical University of Munich (TUM), Germany  
+  MSc Communication Engineering, 2007-2009  
+
+* University of Engineering & Technology (UET), Taxila  
+  BSc Electrical Engineering, 2003 – 2006  
+  
 
 ## Teaching
 * CS-365     **Virtual and Augmented Reality**          Fall 2023, 2024
