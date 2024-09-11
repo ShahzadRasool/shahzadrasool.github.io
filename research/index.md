@@ -3,9 +3,11 @@ layout: page
 title: Shahzad Rasool - Research Group
 ---
 # Research Funding
-* Virtual reality simulation for vehicle driving training through restricted outdoor regions, HQ1C PA, Pakistan, **PKR 4,868,600**, 2022-2023 *Principal Investigator*  
-* Virtual reality training simulator for critical multi-operator vehicle, Research and Development Establishment, Pakistan, **PKR 50,097,472**, 2022-2024 *Principal Investigator*  
+## In Progress
 * Development of a Virtual Reality Training and Testing System for Learning in Complex Domains, Higher Education Commission (HEC), Pakistan, 20-14785/NRPU/R&D/HEC/2021, **PKR 6,282,000**, 2022-2024 *Principal Investigator*
+## Completed
+* Virtual reality simulation for vehicle driving training through restricted outdoor regions, HQ1C PA, Pakistan, **PKR 4,868,600**, 2022-2023 *Principal Investigator*  
+* Virtual reality training simulator for critical multi-operator vehicle, Research and Development Establishment, Pakistan, **PKR 50,326,051**, 2022-2024 *Principal Investigator*  
 * Simulation of vehicle operator procedures in virtual reality, HQ1C PA, Pakistan, **PKR 2,000,000**, 2022 *Principal Investigator*
 * Development of vision-based insect flight tracking environment for flight performance estimation of perching and prey-predator maneuver, Higher Education Commission (HEC), Pakistan, 20-13395/NRPU/RGM/R&D/HEC/2020, **PKR 7,667,442**, 2021-2024 *Co-Principal Investigator*
 * Tangible Video Communication, Higher Education Commission (HEC), Pakistan, 1469/SRGP/R&D/HEC/2017, **PKR 361,690**, 2017-2018 *Principal Investigator*
