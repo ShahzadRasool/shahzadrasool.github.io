@@ -2,6 +2,7 @@
 layout: page
 title: Shahzad Rasool - Publications
 ---
+## Journals
 * Analysis of Visual and Vestibular Information on Motion Sickness in Flight Simulation _Aerospace_. 2024; 11(2):139;  
 https://doi.org/10.3390/aerospace11020139 (**IF: 2.600**)  
 A. Javaid, **S. Rasool**, A. Maqsood
@@ -17,12 +18,17 @@ A. Fatima, W. Hussain, **S. Rasool**
 H. A. Malik, **S. Rasool**, A. Maqsood, R. Riaz  
 * Interactive 3D Visualization of Chemical Structure Diagrams Embedded in Text to Aid Spatial Learning Process of Students, _Journal of Chemical Education_. 2020; 97(4):992-1000   (**IF: 1.763**)  
 A. Fatemah, **S. Rasool**, U. Habib  
-* A framework for cardboard based augmented reality, _International Conference on Frontiers of Information Technology (FIT)_ 2018, pp. 287-292. IEEE  
-S. R. Rehman, **S. Rasool**  
 * Neurocognitive Tools for Assessing Haptic Interaction. _International Journal of Psychophysiology_, 108, pp. 147, DOI: 10.1016/j.ijpsycho.2016.07.427   (**IF: 2.582**)  
 **S. Rasool**, X. Hou, Y. Liu, A. Sourin, O. Sourina  
 * Real-time haptic interaction with RGBD video streams. _The Visual Computer_, pp. 1-11, ISSN 1432-2315, DOI: 10.1007/s00371-016-1224-1. Springer (**IF: 1.468**)  
 **S. Rasool**, A. Sourin  
+* Image-driven virtual simulation of arthroscopy, _The Visual Computer_, (29)5, pp. 333-334. DOI: 10.1007/s00371-012-0736-6, Springer (**IF: 1.073**)  
+**S. Rasool**, A. Sourin  
+
+
+## Conferences
+* A framework for cardboard based augmented reality, _International Conference on Frontiers of Information Technology (FIT)_ 2018, pp. 287-292. IEEE  
+S. R. Rehman, **S. Rasool**  
 * Assessing Haptic Video Interaction with Neurocognitive Tools, _International conference on Systems, Man and Cybernetics (SMC)_, Budapest, Hungary, October 2016, pp. 3057-3062. IEEE. doi: 10.1109/SMC.2016.7844706  
 **S. Rasool**, X. Hou, Y. Liu, A. Sourin, O. Sourina  
 * Haptic interaction with video streams containing depth data, _International Conference on Cyberworlds (CW)_. Gotland, Sweden, pp. 173-180. IEEE (**_Best Paper Award_**)  
@@ -35,8 +41,6 @@ K. Chen, X. Zhang, **S. Rasool**, H. Johan, A. Sourin
 **S. Rasool**, A. Sourin, V. Pestrikov, F. Kagda  
 * Modeling arthroscopic camera with haptic devices in image-based virtual environments, _Haptics Symposium (HAPTICS)_. Houston, TX, pp. 403-408. IEEE  
 **S. Rasool**, A. Sourin, V. Pestrikov, F. Kagda  
-* Image-driven virtual simulation of arthroscopy, _The Visual Computer_, (29)5, pp. 333-334. DOI: 10.1007/s00371-012-0736-6, Springer (**IF: 1.073**)  
-**S. Rasool**, A. Sourin  
 *	Image-driven Haptic Rendering in Virtual Environments, _International Conference on Cyberworlds (CW)_. Yokohama, Japan, pp. 286-293. IEEE  
 **S. Rasool**, A. Sourin  
 *	Towards hand-eye coordination training in virtual knee arthroscopy, _19th ACM Symposium on Virtual Reality Software and Technology (VRST)_, Singapore. pp. 17-26. ACM  
