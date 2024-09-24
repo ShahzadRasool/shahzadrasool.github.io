@@ -5,6 +5,7 @@ title: Shahzad Rasool - Research Group
 # Research Funding  
 ## In Progress  
 * Development of a Virtual Reality Training and Testing System for Learning in Complex Domains, Higher Education Commission (HEC), Pakistan, 20-14785/NRPU/R&D/HEC/2021, **PKR 6,282,000**, 2022-2024 *Principal Investigator*  
+
 ## Completed  
 * Virtual reality simulation for vehicle driving training through restricted outdoor regions, HQ1C PA, Pakistan, **PKR 4,868,600**, 2022-2023 *Principal Investigator*  
 * Virtual reality training simulator for critical multi-operator vehicle, Research and Development Establishment, Pakistan, **PKR 50,326,051**, 2022-2024 *Principal Investigator*  
