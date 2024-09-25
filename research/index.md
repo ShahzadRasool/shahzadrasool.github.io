@@ -62,58 +62,59 @@ The current focus of my research is on interdisciplinary applications falling un
 # Research Students
 ## Current Students
   1. **Amna Khan** _PhD CSE_ (2022-Present)
-  2. **Mian Muhammad Fatik Owais** _MS SYSE_ (2022-Present)
-  3. **Hifsa Shahid** _MS CSE_ (2024-Present)
+  2. **Hifsa Shahid** _MS CSE_ (2024-Present)
 
 ## Previous Students
-  1. **Maira Sohail** (2022-2024)  
+  1. **Mian Muhammad Fatik Owais** (2022-2024)  
+     Electric Muscle Stimulation for Haptic Feedback in Virtual Reality Environment
+  2. **Maira Sohail** (2022-2024)  
      Immersive Virtual Reality based Gamified Stereochemistry Learning
-  2. **Fiza Azam** (2023-2024)  
+  3. **Fiza Azam** (2023-2024)  
      Collaborative Task Performance via Real-Time Interaction with Intelligent Virtual Agents
-  3. **Raheela Raza** (2023-2024)  
+  4. **Raheela Raza** (2023-2024)  
 	  Exploring provision of hints in a puzzle game and their influence on engagement and performance
-  4. **Urwa Ejaz** (2023-2024)  
+  5. **Urwa Ejaz** (2023-2024)  
      Investigating the Neural Corelates of Stiffness Perception using Force and Pseudo-Haptic Feedback
-  5. **Muhammad Adil Talay** (2020-2024)  
-  6. **Sofia Mohammad** (2023-2024)  
+  6. **Muhammad Adil Talay** (2020-2024)  
+  7. **Sofia Mohammad** (2023-2024)  
      An exploration of strategies for effective placement of advertisements in the Metaverse
-  7. **Amna Naeem** (2022-2023)  
+  8. **Amna Naeem** (2022-2023)  
      Reinforcement Learning Based Agent Training for User Privacy in Metaverse
-  8. **Maria Maqbool** (2021-2023)  
+  9. **Maria Maqbool** (2021-2023)  
      Empowering eco-friendly habits - Designing interactive virtual environments for attitude and behaviour change towards energy conservation
-  9. **Kiran Firdaus** (2022-2023)  
+  10. **Kiran Firdaus** (2022-2023)  
      Human stress classification using EEG in response to stand-up comedians’ clips
-  10. **Irsa Abbasi** (2020-2023)  
+  11. **Irsa Abbasi** (2020-2023)  
      Developing a virtual reality approach towards a better understanding of different types of enzymes
-  11. **Ahmad Javaid** (2021-2022)  
+  12. **Ahmad Javaid** (2021-2022)  
      Analysis of vestibulo-ocular effects on motion sickness in flight simulation
-  12. **Syeda Yumna Nasir** (2020-2022)  
+  13. **Syeda Yumna Nasir** (2020-2022)  
      Pseudo-haptic feedback through mid-air action for learning of chemical bond strengths
-  13. **Hafsa Tahir** _MS CSE_ (2020-2022)  
+  14. **Hafsa Tahir** _MS CSE_ (2020-2022)  
      Force feedback for collision avoidance in UAV teleoperation through virtual corridors
-  14. **Amna Khan** (2021-2021)  
+  15. **Amna Khan** (2021-2021)  
      Game-induced emotion analysis using electroencephalography
-  15. **Neelam Shoaib** (2020-2021)  
+  16. **Neelam Shoaib** (2020-2021)  
      Virtual reality based procedural memorization of general aviation light aircraft
-  16. **Attia Nafees ul Haq** (2020-2021)  
+  17. **Attia Nafees ul Haq** (2020-2021)  
      Pure mental state detection using EEG
-  17. **Muhammad Ali Bilal** (2018-2021)  
+  18. **Muhammad Ali Bilal** (2018-2021)  
      Cognitive workload analysis in visual and auditory task using EEG signals  
-  18. **Umar Shahid** (2019-2020)  
+  19. **Umar Shahid** (2019-2020)  
       EEG based mental workload assessment using machine learning  
-  19. **Muhammad Adil Talay** (2018-2020)  
+  20. **Muhammad Adil Talay** (2018-2020)  
       Few-shot metric learning for remote sensing image scene classification  
-  20. **Zain ul Abideen** (2018-2020)  
+  21. **Zain ul Abideen** (2018-2020)  
       Development of a cost effective training system for small arms shooting training  
-  21. **Hassam Ahmed Malik** (2018-2020)  
+  22. **Hassam Ahmed Malik** (2018-2020)  
       Effect of haptic feedback on pilot/operator performance during flight simulation  
-  22. **Amal Fatemah** (2018-2019)  
+  23. **Amal Fatemah** (2018-2019)  
       Design of an integrated pipeline for the visualization of 3D molecular models to study the effects on spatial learning ability  
-  23. **Hasnain Rashid** (2017-2019)  
+  24. **Hasnain Rashid** (2017-2019)  
       Automatic cell detection and counting of microscopic images using machine learning  
-  24. **Aroosh Fatima** (2017-2018 )  
+  25. **Aroosh Fatima** (2017-2018 )  
       Using deep learning for image and video vompression  
-  25. **Syed Rameez Rehman** (2016-2018)  
+  26. **Syed Rameez Rehman** (2016-2018)  
       A framework for cardboard based augmented reality  
-  26. **Samin Kainat** (2016-2017)  
+  27. **Samin Kainat** (2016-2017)  
       Man made world image matching over wide baselines
