@@ -5,6 +5,7 @@ title: Shahzad Rasool - Research Group
 # Research Funding  
 ## In Progress  
 * Development of a Virtual Reality Training and Testing System for Learning in Complex Domains, Higher Education Commission (HEC), Pakistan, 20-14785/NRPU/R&D/HEC/2021, **PKR 6,282,000**, 2022-2024 *Principal Investigator*  
+* Managing Student Stress: Building Application to help reduce stress, National University of Sciences and Technology (NUST), IRP-24-06, **PKR 1,000,000**, 2024-2025 *Principal Investigator*
 
 ## Completed  
 * Virtual reality simulation for vehicle driving training through restricted outdoor regions, HQ1C PA, Pakistan, **PKR 4,868,600**, 2022-2023 *Principal Investigator*  
@@ -63,6 +64,7 @@ The current focus of my research is on interdisciplinary applications falling un
 ## Current Students
   1. **Amna Khan** _PhD CSE_ (2022-Present)
   2. **Hifsa Shahid** _MS CSE_ (2024-Present)
+  3. **Warda Ayaz** _MS_CSE_ (2024-Present)
 
 ## Previous Students
   1. **Mian Muhammad Fatik Owais** (2022-2024)  
@@ -72,7 +74,7 @@ The current focus of my research is on interdisciplinary applications falling un
   3. **Fiza Azam** (2023-2024)  
      Collaborative Task Performance via Real-Time Interaction with Intelligent Virtual Agents
   4. **Raheela Raza** (2023-2024)  
-	  Exploring provision of hints in a puzzle game and their influence on engagement and performance
+     Exploring provision of hints in a puzzle game and their influence on engagement and performance
   5. **Urwa Ejaz** (2023-2024)  
      Investigating the Neural Corelates of Stiffness Perception using Force and Pseudo-Haptic Feedback
   6. **Muhammad Adil Talay** (2020-2024)  
