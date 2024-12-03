@@ -65,6 +65,7 @@ The current focus of my research is on interdisciplinary applications falling un
   1. **Amna Khan** _PhD CSE_ (2022-Present)
   2. **Hifsa Shahid** _MS CSE_ (2024-Present)
   3. **Warda Ayaz** _MS_CSE_ (2024-Present)
+  4. **Muhammad Hamza Saleem** _MS_CSE_ (2024-Present)
 
 ## Previous Students
   1. **Mian Muhammad Fatik Owais** (2022-2024)  
