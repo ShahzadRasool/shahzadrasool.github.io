@@ -30,7 +30,7 @@ _Research Fellow_ at Visual Immersive Haptic Mathematics (VIHAMAT) Lab.
 
 ## Teaching
 * CS-365     **Virtual and Augmented Reality**          Fall 2023, 2024
-*	CSE-867 	 **Virtual Reality**					Fall 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024
+*	CSE-867 	 **Virtual Reality**					Fall 2017, 2018, 2019, 2020, 2021, 2022, 2023
 *	CSE-865 	 **3D Geometric Modeling and Reconstruction**		Spring 2018, 2019, 2020, 2021, 2022, 2023, 2024
 *	CSE-868 	 **Human Computer Interaction**			Spring 2018, 2019, 2020, 2021, 2022
 *	EE-851 	  **Advanced Digital Communication Systems**		Fall 2017, 2018, 2019, 2020
