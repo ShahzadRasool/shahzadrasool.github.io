@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Shahzad Rasool - Research Group
+title: Shahzad Rasool - Research
 ---
 # Research Funding  
 ## In Progress  
