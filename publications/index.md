@@ -3,7 +3,8 @@ layout: page
 title: Shahzad Rasool - Publications
 ---
 ## Journals
-* VR Stereo Thrills & Spills: An Immersive Virtual Reality Game for Enhancing Student Understanding of Stereoisomerism  _Journal of Chemical Education_. 2025; 105(2):2002-2012; https://doi.org/10.1021/acs.jchemed.5c00112 (**IF: 2.500**)  
+* VR Stereo Thrills & Spills: An Immersive Virtual Reality Game for Enhancing Student Understanding of Stereoisomerism  _Journal of Chemical Education_. 2025; 105(2):2002-2012;  
+https://doi.org/10.1021/acs.jchemed.5c00112 (**IF: 2.500**)  
 M. Sohail, U. Habib, **S. Rasool**
 * Analysis of Visual and Vestibular Information on Motion Sickness in Flight Simulation _Aerospace_. 2024; 11(2):139;  
 https://doi.org/10.3390/aerospace11020139 (**IF: 2.600**)  
