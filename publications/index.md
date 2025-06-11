@@ -9,7 +9,8 @@ M. Sohail, U. Habib, **S. Rasool**
 * Analysis of Visual and Vestibular Information on Motion Sickness in Flight Simulation _Aerospace_. 2024; 11(2):139;  
 https://doi.org/10.3390/aerospace11020139 (**IF: 2.600**)  
 A. Javaid, **S. Rasool**, A. Maqsood
-* Virtual Reality as a Medium of Asynchronous Content Delivery for Teaching about Enzymes _Journal of Chemical Education_. 2023; 100(3):1203-1210; https://doi.org/10.1016/j.compbiomed.2022.105441 (**IF: 3.000**)  
+* Virtual Reality as a Medium of Asynchronous Content Delivery for Teaching about Enzymes _Journal of Chemical Education_. 2023; 100(3):1203-1210;  
+https://doi.org/10.1021/acs.jchemed.2c01113 (**IF: 3.000**)  
 I. Abbasi, **S. Rasool**, U. Habib
 * Game induced emotion analysis using electroencephalography _Computers in Biology and Medicine_. 2022; 145  
 https://doi.org/10.1016/j.compbiomed.2022.105441 (**IF: 4.589**)  
