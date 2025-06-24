@@ -66,7 +66,7 @@ The current focus of my research is on interdisciplinary applications falling un
   2. **Warda Ayaz** _MS_CSE_ (2024-Present)
 
 ## Previous Students
-  1. **Muhammad Hamza Saleem** (2024-2025)  
+  1. **Muhammad Hamza Saleem** (2024 - 2025)  
      Comparative Evaluation of Cybersickness Mitigation Techniques using a Unified Scoring System in VR
   3. **Hifsa Shahid** (2024-2025)  
      Emotional Responses to Design Elements in Virtual Environments
