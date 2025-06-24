@@ -102,61 +102,63 @@ Out of the box solutions for conventional problems in CG and CV
 ## Research Team
 ### Current
   1. **Amna Khan** _PhD CSE_ (2022-Present)
-  2. **Hifsa Shahid** _MS CSE_ (2024-Present)
-  3. **Warda Ayaz** _MS CSE_ (2024-Present)
-  4. **Muhammad Hamza Saleem** _MS_CSE_ (2024-Present)
-
+  2. **Warda Ayaz** _MS CSE_ (2024-Present)
+          
 ### Alumni
-  1. **Mian Muhammad Fatik Owais** (2022-2024)  
+  1. **Muhammad Hamza Saleem** (2024-2025)  
+     Comparative Evaluation of Cybersickness Mitigation Techniques using a Unified Scoring System in VR
+  2. **Hifsa Shahid** (2024-2025)  
+     Emotional Responses to Design Elements in Virtual Environments
+  3. **Mian Muhammad Fatik Owais** (2022-2024)  
      Electric Muscle Stimulation for Haptic Feedback in Virtual Reality Environment
-  2. **Maira Sohail** (2022-2024)  
+  4. **Maira Sohail** (2022-2024)  
      Immersive Virtual Reality based Gamified Stereochemistry Learning
-  3. **Fiza Azam** (2023-2024)  
+  5. **Fiza Azam** (2023-2024)  
      Collaborative Task Performance via Real-Time Interaction with Intelligent Virtual Agents
-  4. **Raheela Raza** (2023-2024)  
+  6. **Raheela Raza** (2023-2024)  
      Exploring provision of hints in a puzzle game and their influence on engagement and performance
-  5. **Urwa Ejaz** (2023-2024)  
+  7. **Urwa Ejaz** (2023-2024)  
      Investigating the Neural Corelates of Stiffness Perception using Force and Pseudo-Haptic Feedback
-  6. **Muhammad Adil Talay** (2020-2024)  
-  7. **Sofia Mohammad** (2023-2024)  
+  8. **Muhammad Adil Talay** (2020-2024)  
+  9. **Sofia Mohammad** (2023-2024)  
      An exploration of strategies for effective placement of advertisements in the Metaverse
-  8. **Amna Naeem** (2022-2023)  
+  10. **Amna Naeem** (2022-2023)  
      Reinforcement Learning Based Agent Training for User Privacy in Metaverse
-  9. **Maria Maqbool** (2021-2023)  
+  11. **Maria Maqbool** (2021-2023)  
      Empowering eco-friendly habits - Designing interactive virtual environments for attitude and behaviour change towards energy conservation
-  10. **Kiran Firdaus** (2022-2023)  
+  12. **Kiran Firdaus** (2022-2023)  
      Human stress classification using EEG in response to stand-up comedians’ clips
-  11. **Irsa Abbasi** (2020-2023)  
+  13. **Irsa Abbasi** (2020-2023)  
      Developing a virtual reality approach towards a better understanding of different types of enzymes
-  12. **Ahmad Javaid** (2021-2022)  
+  14. **Ahmad Javaid** (2021-2022)  
      Analysis of vestibulo-ocular effects on motion sickness in flight simulation
-  13. **Syeda Yumna Nasir** (2020-2022)  
+  15. **Syeda Yumna Nasir** (2020-2022)  
      Pseudo-haptic feedback through mid-air action for learning of chemical bond strengths
-  14. **Hafsa Tahir** _MS CSE_ (2020-2022)  
+  16. **Hafsa Tahir** _MS CSE_ (2020-2022)  
      Force feedback for collision avoidance in UAV teleoperation through virtual corridors
-  15. **Amna Khan** (2021-2021)  
+  17. **Amna Khan** (2021-2021)  
      Game-induced emotion analysis using electroencephalography
-  16. **Neelam Shoaib** (2020-2021)  
+  18. **Neelam Shoaib** (2020-2021)  
      Virtual reality based procedural memorization of general aviation light aircraft
-  17. **Attia Nafees ul Haq** (2020-2021)  
+  19. **Attia Nafees ul Haq** (2020-2021)  
      Pure mental state detection using EEG
-  18. **Muhammad Ali Bilal** (2018-2021)  
+  20. **Muhammad Ali Bilal** (2018-2021)  
      Cognitive workload analysis in visual and auditory task using EEG signals  
-  19. **Umar Shahid** (2019-2020)  
+  21. **Umar Shahid** (2019-2020)  
       EEG based mental workload assessment using machine learning  
-  20. **Muhammad Adil Talay** (2018-2020)  
+  22. **Muhammad Adil Talay** (2018-2020)  
       Few-shot metric learning for remote sensing image scene classification  
-  21. **Zain ul Abideen** (2018-2020)  
+  23. **Zain ul Abideen** (2018-2020)  
       Development of a cost effective training system for small arms shooting training  
-  22. **Hassam Ahmed Malik** (2018-2020)  
+  24. **Hassam Ahmed Malik** (2018-2020)  
       Effect of haptic feedback on pilot/operator performance during flight simulation  
-  23. **Amal Fatemah** (2018-2019)  
+  25. **Amal Fatemah** (2018-2019)  
       Design of an integrated pipeline for the visualization of 3D molecular models to study the effects on spatial learning ability  
-  24. **Hasnain Rashid** (2017-2019)  
+  26. **Hasnain Rashid** (2017-2019)  
       Automatic cell detection and counting of microscopic images using machine learning  
-  25. **Aroosh Fatima** (2017-2018 )  
+  27. **Aroosh Fatima** (2017-2018 )  
       Using deep learning for image and video vompression  
-  26. **Syed Rameez Rehman** (2016-2018)  
+  28. **Syed Rameez Rehman** (2016-2018)  
       A framework for cardboard based augmented reality  
-  27. **Samin Kainat** (2016-2017)  
+  29. **Samin Kainat** (2016-2017)  
       Man made world image matching over wide baselines
