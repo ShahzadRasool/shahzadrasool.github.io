@@ -34,6 +34,8 @@ A. Fatemah, **S. Rasool**, U. Habib
 
 
 ## Conferences
+* Beyond User Control: Exploring Hint System Design and Player Experience in Puzzle Games, _2025 International Conference on Communication Technologies (ComTech)_, Rawalpindi, Pakistan, 2025, pp. 1-6, doi: 10.1109/ComTech65062.2025.11034626, IEEE  
+R. Raza and **S. Rasool**
 * A framework for cardboard based augmented reality, _International Conference on Frontiers of Information Technology (FIT)_ 2018, pp. 287-292. IEEE  
 S. R. Rehman, **S. Rasool**  
 * Assessing Haptic Video Interaction with Neurocognitive Tools, _International conference on Systems, Man and Cybernetics (SMC)_, Budapest, Hungary, October 2016, pp. 3057-3062. IEEE. doi: 10.1109/SMC.2016.7844706  
