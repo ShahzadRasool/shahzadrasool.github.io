@@ -6,8 +6,7 @@ title: Shahzad Rasool - Publications
 * Enhancing Energy Conservation Behaviors Through Audio, Visual, and Social Cues in Virtual Reality. _The Visual Computer_. 2025;  
 https://doi.org/10.1007/s00371-025-04003-7 (**IF: 3.000**)  
 M. Maqbool, A. Khan, M. Rafiq, **S. Rasool**
-* VR Stereo Thrills & Spills: An Immersive Virtual Reality Game for Enhancing Student Understanding of Stereoisomerism  _Journal of Chemical Education_. 2025; 105(2):2002-2012;  
-https://doi.org/10.1021/acs.jchemed.5c00112 (**IF: 2.500**)  
+* VR Stereo Thrills & Spills: An Immersive Virtual Reality Game for Enhancing Student Understanding of Stereoisomerism  _Journal of Chemical Education_. 2025; 105(2):2002-2012; https://doi.org/10.1021/acs.jchemed.5c00112 (**IF: 2.500**)  
 M. Sohail, U. Habib, **S. Rasool**
 * Analysis of Visual and Vestibular Information on Motion Sickness in Flight Simulation _Aerospace_. 2024; 11(2):139;  
 https://doi.org/10.3390/aerospace11020139 (**IF: 2.600**)  
