@@ -36,10 +36,12 @@ _Research Fellow_ at Visual Immersive Haptic Mathematics (VIHAMAT) Lab.
   BSc Electrical Engineering, 2003 – 2006  
   
 
-## Teaching
+## Teaching  
+
 ### Undergraduate
 * CS-261     **Human Computer Interaction**          Spring 2025
-* CS-365     **Virtual and Augmented Reality**          Fall 2023, 2024
+* CS-365     **Virtual and Augmented Reality**          Fall 2023, 2024  
+
 ### Postgraduate
 *	CSE-867 	 **Virtual Reality**					Fall 2017, 2018, 2019, 2020, 2021, 2022, 2023
 *	CSE-865 	 **3D Geometric Modeling and Reconstruction**		Spring 2018, 2019, 2020, 2021, 2022, 2023, 2024
