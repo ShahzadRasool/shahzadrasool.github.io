@@ -4,10 +4,10 @@ title: Shahzad Rasool - Research
 ---
 # Research Funding  
 ## In Progress  
-* Development of a Virtual Reality Training and Testing System for Learning in Complex Domains, Higher Education Commission (HEC), Pakistan, 20-14785/NRPU/R&D/HEC/2021, **PKR 6,282,000**, 2022-2024 *Principal Investigator*  
 * Managing Student Stress: Building Application to help reduce stress, National University of Sciences and Technology (NUST), IRP-24-06, **PKR 1,000,000**, 2024-2025 *Principal Investigator*
 
 ## Completed  
+* Development of a Virtual Reality Training and Testing System for Learning in Complex Domains, Higher Education Commission (HEC), Pakistan, 20-14785/NRPU/R&D/HEC/2021, **PKR 6,282,000**, 2022-2024 *Principal Investigator*  
 * Virtual reality simulation for vehicle driving training through restricted outdoor regions, HQ1C PA, Pakistan, **PKR 4,868,600**, 2022-2023 *Principal Investigator*  
 * Virtual reality training simulator for critical multi-operator vehicle, Research and Development Establishment, Pakistan, **PKR 50,326,051**, 2022-2024 *Principal Investigator*  
 * Simulation of vehicle operator procedures in virtual reality, HQ1C PA, Pakistan, **PKR 2,000,000**, 2022 *Principal Investigator*
@@ -63,10 +63,12 @@ The current focus of my research is on interdisciplinary applications falling un
 # Research Students
 ## Current Students
   1. **Amna Khan** _PhD CSE_ (2022-Present)
-  2. **Warda Ayaz** _MS_CSE_ (2024-Present)
+  2. **Naureen Mansoor** _MS CSE_ (2025-Present)
 
 ## Previous Students
-  1. **Muhammad Hamza Saleem** (2024 - 2025)  
+  1. **Warda Ayaz** (2024-2025)  
+     Human-Factor Evaluations for Virtual Reality Interactions Using EEG
+  2. **Muhammad Hamza Saleem** (2024 - 2025)  
      Comparative Evaluation of Cybersickness Mitigation Techniques using a Unified Scoring System in VR
   3. **Hifsa Shahid** (2024-2025)  
      Emotional Responses to Design Elements in Virtual Environments
