@@ -4,14 +4,14 @@ title: Shahzad Rasool
 ---
 
 <img align="left" width="80" src="../images/self.jpeg">
-Assistant Professor  
+Associate Professor  
 School of Interdisciplinary Engineering and Sciences (SINES)  
 National University of Sciences and Technology, Islamabad  
 Phone: +92 51 9085 5737
 <p>&nbsp;</p>  
 
 ## Profile
-Dr. Shahzad Rasool is an Assistant Professor at [School of Interdisciplinary Engineering and Sciences (SINES)](http://www.sines.nust.edu.pk/), [National University of Science and Technology (NUST)](http://www.nust.edu.pk) since August 2016. He received his Ph.D. from [Nanyang Technological University (NTU)](http://www.ntu.edu.sg), Singapore in 2014, M.Sc. degree in [Communication Engineering](https://www.ei.tum.de/en/ei/studium/msce/) from [Technische Universität München (TUM)](https://www.tum.de/en), Germany in 2009 and B.Sc. in Electrical Engineering from [University of Engineering and Technology (UET)](http://www.uettaxila.edu.pk), Taxila, Pakistan in 2006. In 2008, he worked as a research intern at DOCOMO Communications Laboratories Europe, Munich. From 2014-2016, he worked as a Research Fellow at the [Immersive Mathematics Lab](http://www3.ntu.edu.sg/home/assourin/research) of [Fraunhofer IDM @ NTU](http://www.fraunhofer.sg), Singapore. The recent focus of his research is on applications of immersive interaction and his research interests include haptics, virtual reality, HCI and computer vision.
+Dr. Shahzad Rasool is an Associate Professor at [School of Interdisciplinary Engineering and Sciences (SINES)](http://www.sines.nust.edu.pk/), [National University of Science and Technology (NUST)](http://www.nust.edu.pk) since August 2016. He received his Ph.D. from [Nanyang Technological University (NTU)](http://www.ntu.edu.sg), Singapore in 2014, M.Sc. degree in [Communication Engineering](https://www.ei.tum.de/en/ei/studium/msce/) from [Technische Universität München (TUM)](https://www.tum.de/en), Germany in 2009 and B.Sc. in Electrical Engineering from [University of Engineering and Technology (UET)](http://www.uettaxila.edu.pk), Taxila, Pakistan in 2006. In 2008, he worked as a research intern at DOCOMO Communications Laboratories Europe, Munich. From 2014-2016, he worked as a Research Fellow at the [Immersive Mathematics Lab](http://www3.ntu.edu.sg/home/assourin/research) of [Fraunhofer IDM @ NTU](http://www.fraunhofer.sg), Singapore. The recent focus of his research is on applications of immersive interaction and his research interests include haptics, virtual reality, HCI and computer vision.
 
 
 ## Awards and Recognition
