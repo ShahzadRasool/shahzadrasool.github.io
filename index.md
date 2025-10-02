@@ -23,7 +23,7 @@ Dr. Shahzad Rasool is an Associate Professor at [School of Interdisciplinary Eng
 
 ## Experience
 * **National University of Sciences and Technology (NUST)**, Pakistan. Aug ’16 - Present  
-_Assistant Professor_ at School of Interdisciplinary Engineering and Sciences (SINES)  
+_Associate Professor_ at School of Interdisciplinary Engineering and Sciences (SINES)  
 * **Fraunhofer IDM @ NTU**, Singapore. Dec ’12 – Aug ’16  
 _Research Fellow_ at Visual Immersive Haptic Mathematics (VIHAMAT) Lab.  
 
