@@ -3,32 +3,36 @@ layout: page
 title: Shahzad Rasool - Publications
 ---
 ## Journals
+* Low Cost 3D Motion Capture of Rapid Maneuvers Using a Single High Speed Camera. _Computer Animation and Virtual Worlds_. 2025; 36(5):e70070;  
+https://doi.org/10.1002/cav.70070 (**IF: 1.7**)  
+W. Hussain, M. Naveed, A. Khan, T. H. Khan, M. L. Anjum, **S. Rasool**, A. Maqsood
 * Enhancing Energy Conservation Behaviors Through Audio, Visual, and Social Cues in Virtual Reality. _The Visual Computer_. 2025;  
-https://doi.org/10.1007/s00371-025-04003-7 (**IF: 3.000**)  
+https://doi.org/10.1007/s00371-025-04003-7 (**IF: 3.0**)  
 M. Maqbool, A. Khan, M. Rafiq, **S. Rasool**
-* VR Stereo Thrills & Spills: An Immersive Virtual Reality Game for Enhancing Student Understanding of Stereoisomerism  _Journal of Chemical Education_. 2025; 105(2):2002-2012; https://doi.org/10.1021/acs.jchemed.5c00112 (**IF: 2.500**)  
+* VR Stereo Thrills & Spills: An Immersive Virtual Reality Game for Enhancing Student Understanding of Stereoisomerism  _Journal of Chemical Education_. 2025; 105(2):2002-2012;  
+https://doi.org/10.1021/acs.jchemed.5c00112 (**IF: 2.5**)  
 M. Sohail, U. Habib, **S. Rasool**
 * Analysis of Visual and Vestibular Information on Motion Sickness in Flight Simulation _Aerospace_. 2024; 11(2):139;  
-https://doi.org/10.3390/aerospace11020139 (**IF: 2.600**)  
+https://doi.org/10.3390/aerospace11020139 (**IF: 2.6**)  
 A. Javaid, **S. Rasool**, A. Maqsood
 * Virtual Reality as a Medium of Asynchronous Content Delivery for Teaching about Enzymes _Journal of Chemical Education_. 2023; 100(3):1203-1210;  
-https://doi.org/10.1021/acs.jchemed.2c01113 (**IF: 3.000**)  
+https://doi.org/10.1021/acs.jchemed.2c01113 (**IF: 3.0**)  
 I. Abbasi, **S. Rasool**, U. Habib
 * Game induced emotion analysis using electroencephalography _Computers in Biology and Medicine_. 2022; 145  
-https://doi.org/10.1016/j.compbiomed.2022.105441 (**IF: 4.589**)  
+https://doi.org/10.1016/j.compbiomed.2022.105441 (**IF: 4.6**)  
 A. Khan, **S. Rasool**
 * Grey is the new RGB: How good is GAN-based image colorization for image compression? _Multimedia Tools & Applications_. 2021;  
-80(3): 3775-3791; https://doi.org/10.1007/s11042-020-09861-y (**IF: 2.313**)  
+80(3): 3775-3791; https://doi.org/10.1007/s11042-020-09861-y (**IF: 2.3**)  
 A. Fatima, W. Hussain, **S. Rasool**  
-* Effect of Haptic Feedback on Pilot/Operator Performance During Flight Simulation, _Applied Sciences_. 2020; 10(11):3877   (**IF: 2.271**)  
+* Effect of Haptic Feedback on Pilot/Operator Performance During Flight Simulation, _Applied Sciences_. 2020; 10(11):3877   (**IF: 2.3**)  
 H. A. Malik, **S. Rasool**, A. Maqsood, R. Riaz  
-* Interactive 3D Visualization of Chemical Structure Diagrams Embedded in Text to Aid Spatial Learning Process of Students, _Journal of Chemical Education_. 2020; 97(4):992-1000   (**IF: 1.763**)  
+* Interactive 3D Visualization of Chemical Structure Diagrams Embedded in Text to Aid Spatial Learning Process of Students, _Journal of Chemical Education_. 2020; 97(4):992-1000   (**IF: 1.8**)  
 A. Fatemah, **S. Rasool**, U. Habib  
-* Neurocognitive Tools for Assessing Haptic Interaction. _International Journal of Psychophysiology_, 108, pp. 147, DOI: 10.1016/j.ijpsycho.2016.07.427   (**IF: 2.582**)  
+* Neurocognitive Tools for Assessing Haptic Interaction. _International Journal of Psychophysiology_, 108, pp. 147, DOI: 10.1016/j.ijpsycho.2016.07.427   (**IF: 2.6**)  
 **S. Rasool**, X. Hou, Y. Liu, A. Sourin, O. Sourina  
-* Real-time haptic interaction with RGBD video streams. _The Visual Computer_, pp. 1-11, ISSN 1432-2315, DOI: 10.1007/s00371-016-1224-1. Springer (**IF: 1.468**)  
+* Real-time haptic interaction with RGBD video streams. _The Visual Computer_, pp. 1-11, ISSN 1432-2315, DOI: 10.1007/s00371-016-1224-1. Springer (**IF: 1.5**)  
 **S. Rasool**, A. Sourin  
-* Image-driven virtual simulation of arthroscopy, _The Visual Computer_, (29)5, pp. 333-334. DOI: 10.1007/s00371-012-0736-6, Springer (**IF: 1.073**)  
+* Image-driven virtual simulation of arthroscopy, _The Visual Computer_, (29)5, pp. 333-334. DOI: 10.1007/s00371-012-0736-6, Springer (**IF: 1.1**)  
 **S. Rasool**, A. Sourin  
 
 
