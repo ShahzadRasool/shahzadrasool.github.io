@@ -6,7 +6,7 @@ title: Shahzad Rasool - Publications
 * Low Cost 3D Motion Capture of Rapid Maneuvers Using a Single High Speed Camera. _Computer Animation and Virtual Worlds_. 2025; 36(5):e70070;  
 https://doi.org/10.1002/cav.70070 (**IF: 1.7**)  
 W. Hussain, M. Naveed, A. Khan, T. H. Khan, M. L. Anjum, **S. Rasool**, A. Maqsood
-* Enhancing Energy Conservation Behaviors Through Audio, Visual, and Social Cues in Virtual Reality. _The Visual Computer_. 2025;  
+* Enhancing Energy Conservation Behaviors Through Audio, Visual, and Social Cues in Virtual Reality. _The Visual Computer_. 2025; 41:9839–9855;  
 https://doi.org/10.1007/s00371-025-04003-7 (**IF: 3.0**)  
 M. Maqbool, A. Khan, M. Rafiq, **S. Rasool**
 * VR Stereo Thrills & Spills: An Immersive Virtual Reality Game for Enhancing Student Understanding of Stereoisomerism  _Journal of Chemical Education_. 2025; 105(2):2002-2012;  
