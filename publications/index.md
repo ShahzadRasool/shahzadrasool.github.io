@@ -3,6 +3,9 @@ layout: page
 title: Shahzad Rasool - Publications
 ---
 ## Journals
+* The influence of audiovisual design on emotional responses and presence in virtual reality environments. _Displays_. 2026; 93:103395;  
+https://doi.org/10.1016/j.displa.2026.103395 (**IF: 3.4**)  
+H. Shahid, A. Khan, M. Ilyas, **S. Rasool**
 * Low Cost 3D Motion Capture of Rapid Maneuvers Using a Single High Speed Camera. _Computer Animation and Virtual Worlds_. 2025; 36(5):e70070;  
 https://doi.org/10.1002/cav.70070 (**IF: 1.7**)  
 W. Hussain, M. Naveed, A. Khan, T. H. Khan, M. L. Anjum, **S. Rasool**, A. Maqsood
