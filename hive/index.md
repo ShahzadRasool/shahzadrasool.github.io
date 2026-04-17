@@ -103,6 +103,7 @@ Out of the box solutions for conventional problems in CG and CV
 ### Current
   1. **Amna Khan** _PhD CSE_ (2022-Present)
   2. **Naureen Mansoor** _MS CSE_ (2025-Present)
+  3. **Mian Shah Hassan** _MS_IT_ (2026-Present)
           
 ### Alumni
   1. **Warda Ayaz** (2024-2025)  
