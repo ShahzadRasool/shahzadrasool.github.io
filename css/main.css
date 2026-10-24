@@ -1,51 +1,120 @@
+/* ==========================================================================
+   Palette: Midnight and amber
+   Change the colors here and nothing else needs touching.
+   ========================================================================== */
+:root {
+  --bg:      #fbfaf6;   /* page */
+  --surface: #f1eee6;   /* tables header, code tags, details */
+  --text:    #1c2230;   /* body text */
+  --muted:   #5a6272;   /* secondary text, footer */
+  --line:    #ddd8ca;   /* borders */
+  --accent:  #a34a07;   /* links, key highlights (amber) */
+  --accent2: #2447b8;   /* secondary: IF tags, hover (blue) */
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg:      #0b1220;
+    --surface: #131c2e;
+    --text:    #e8ecf4;
+    --muted:   #9aa5ba;
+    --line:    #25314a;
+    --accent:  #f5b041;
+    --accent2: #7ea6ff;
+  }
+}
+
 body {
-  font-family:'Helvetica', 'Arial', 'Sans-Serif';
+  font-family: 'Helvetica', 'Arial', sans-serif;
   margin: 60px auto;
   width: 70%;
+  max-width: 980px;
   font-size: 16px;
-  color: #404040;
-  background: #FFF;
+  color: var(--text);
+  background: var(--bg);
+  line-height: 1.5;
 }
+
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px;
-    list-style: none;
-    font-weight: bold;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  padding: 0;
+  list-style: none;
+  font-weight: bold;
 }
-nav ul li, footer ul li {
-    display: inline;
-    margin-right: 20px;
+nav ul li, footer ul li { display: inline; margin-right: 20px; }
+
+a { text-decoration: none; color: var(--accent); }
+a:hover { text-decoration: underline; color: var(--accent2); }
+
+h1 { font-size: 2em; margin: 1em 0 .4em; }
+h2 {
+  font-size: 1.4em;
+  margin: 2em 0 .6em;
+  padding-bottom: .25em;
+  border-bottom: 2px solid var(--accent);
+  display: inline-block;
 }
-a {
-    text-decoration: none;
-    color: #1EAEDB;
+h3 { font-size: 1.1em; margin: 1.6em 0 .5em; color: var(--accent2); }
+h1, h2, h3 { font-family: 'Helvetica', 'Arial', sans-serif; line-height: 1.2; }
+
+p { font-size: 1em; line-height: 1.4; margin: 20px 0; color: var(--text); }
+
+ul li, ol li { font-size: 1em; line-height: 1.4; margin: 6px 0; }
+
+strong { color: var(--text); }
+hr { border: 0; border-top: 1px solid var(--line); margin: 36px 0; }
+img { max-width: 100%; height: auto; }
+
+/* quotes (vision and mission) */
+blockquote {
+  margin: 20px 0;
+  padding: 4px 20px;
+  border-left: 4px solid var(--accent);
+  background: var(--surface);
+  color: var(--text);
 }
-a:hover {
-    text-decoration: underline;
-}
-h1 {
-    font-size: 2em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-}
-p {
-    font-size: 1.0em;
-    line-height: 1.2;
-    margin: 30px 0;
-    color: #222;
-}
-footer {
-    border-top: 1px solid #d5d5d5;
-    font-size: .8em;
+blockquote p { margin: 12px 0; }
+
+/* tags such as `IF 3.4` and topic labels */
+code {
+  font-family: ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace;
+  font-size: .82em;
+  background: var(--surface);
+  color: var(--accent2);
+  border: 1px solid var(--line);
+  border-radius: 99px;
+  padding: 1px 8px;
+  white-space: nowrap;
 }
 
-ul li{ 
-  /*margin: 25px 0;*/
-  font-size: 1.0em;
-  line-height: 1.20;
+/* tables (stats, funding, courses, alumni) */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 24px 0;
+  font-size: .94em;
+  display: block;
+  overflow-x: auto;
 }
+th, td { padding: 9px 12px; border-bottom: 1px solid var(--line); vertical-align: top; }
+th { background: var(--surface); color: var(--muted); font-weight: 600; text-align: left; }
+tr:hover td { background: var(--surface); }
 
-ol li {
-  /*margin: 25px 0; */
-  font-size: 1.0em;
-  line-height: 1.2;
+/* collapsible sections */
+details {
+  margin: 20px 0;
+  padding: 4px 18px;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background: var(--surface);
+}
+summary { cursor: pointer; padding: 10px 0; color: var(--text); }
+summary:hover { color: var(--accent); }
+details[open] summary { border-bottom: 1px solid var(--line); margin-bottom: 12px; }
+
+footer { border-top: 1px solid var(--line); font-size: .8em; color: var(--muted); margin-top: 60px; }
+
+::selection { background: var(--accent); color: var(--bg); }
+
+@media (max-width: 720px) {
+  body { width: auto; margin: 24px 18px; }
 }
