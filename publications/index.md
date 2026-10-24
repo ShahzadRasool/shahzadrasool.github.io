@@ -2,19 +2,19 @@
 title: Shahzad Rasool - Publications
 ---
 
-[Home](https://shahzadrasool.github.io/) · [XR-HIVE](https://shahzadrasool.github.io/hive) · [Publications](https://shahzadrasool.github.io/publications)
+<!-- [Home](https://shahzadrasool.github.io/) · [XR-HIVE](https://shahzadrasool.github.io/hive) · [Publications](https://shahzadrasool.github.io/publications) -->
 
 # Publications
 
 [![Total](https://img.shields.io/badge/Total-28-6e56cf?style=flat-square)](#journals) [![Journals](https://img.shields.io/badge/Journals-13-0b7a5f?style=flat-square)](#journals) [![Conferences](https://img.shields.io/badge/Conferences-15-3b5bdb?style=flat-square)](#conferences) [![Years](https://img.shields.io/badge/Years-2010--2026-e8590c?style=flat-square)](#journals)
 
-📥 **[Download all as BibTeX (publications.bib)](https://shahzadrasool.github.io/publications.bib)**
+<!-- 📥 **[Download all as BibTeX (publications.bib)](https://shahzadrasool.github.io/publications.bib)**
 
 | Highlights | |
 |:---|:---|
 | 📊 Highest impact factor | `IF 4.6` · Computers in Biology and Medicine (2022) |
 | 🏆 Best Paper Award | Haptic interaction with video streams containing depth data (2014) |
-
+-->
 **Jump to:** [Journals](#journals) · [Conferences](#conferences) · [Browse by topic](#browse-by-topic)
 
 ## Journals
