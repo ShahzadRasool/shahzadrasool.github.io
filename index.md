@@ -2,7 +2,7 @@
 title: Shahzad Rasool
 ---
 
-[Home](https://shahzadrasool.github.io/) · [XR-HIVE](https://shahzadrasool.github.io/hive) · [Publications](https://shahzadrasool.github.io/publications)
+<!-- [Home](https://shahzadrasool.github.io/) · [XR-HIVE](https://shahzadrasool.github.io/hive) · [Publications](https://shahzadrasool.github.io/publications) -->
 
 <div align="center" markdown="1">
 
@@ -10,7 +10,7 @@ title: Shahzad Rasool
 
 # Dr. Shahzad Rasool
 
-**Associate Professor · School of Interdisciplinary Engineering and Sciences (SINES)**
+**Associate Professor · School of Interdisciplinary Engineering and Sciences (SINES)**  
 National University of Sciences and Technology, Islamabad
 
 *Virtual reality · Haptics · Human-computer interaction · Brain-computer interfaces*
@@ -42,7 +42,8 @@ His recent research focuses on applications of immersive interaction. His intere
 - 🏆 Top Performer Award, NUST (2022)
 - 🏆 School Best Researcher Award, SINES (2022)
 - 🏆 School Best Innovator Award, SINES (2022)
-- 🏆 School Best Teacher Award, SINES (2022)
+- 🏆 School Best Teacher Award, SINES (2020)
+- 🏆 Best Paper Award IEEE CW (2015)
 
 ## Research focus
 
@@ -68,7 +69,7 @@ The [XR-HIVE](https://shahzadrasool.github.io/hive) lab works across four areas.
 - **Beyond User Control: Exploring Hint System Design and Player Experience in Puzzle Games** *(2025)*  
   2025 International Conference on Communication Technologies (ComTech) · [DOI](https://doi.org/10.1109/ComTech65062.2025.11034626)
 
-➡️ **[All 28 publications](https://shahzadrasool.github.io/publications)**, searchable by topic, with a [BibTeX file](https://shahzadrasool.github.io/publications.bib).
+➡️ **[All 28 publications](https://shahzadrasool.github.io/publications)**<!--, searchable by topic, with a [BibTeX file](https://shahzadrasool.github.io/publications.bib).-->
 
 ## Experience and education
 
@@ -98,7 +99,7 @@ The [XR-HIVE](https://shahzadrasool.github.io/hive) lab works across four areas.
 | Code | Course | Terms |
 |:---|:---|:---|
 | CS-261 | Human Computer Interaction | Spring 2025 |
-| CS-365 | Virtual and Augmented Reality | Fall 2023, 2024, 2025 |
+| CS-365 | Virtual and Augmented Reality | Fall 2023-26 |
 | BI-434 | Virtual Reality | Spring 2026 |
 
 **Postgraduate**
