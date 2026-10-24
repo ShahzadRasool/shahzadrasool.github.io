@@ -2,7 +2,7 @@
 title: Shahzad Rasool - Lab
 ---
 
-[Home](https://shahzadrasool.github.io/) · [XR-HIVE](https://shahzadrasool.github.io/hive) · [Publications](https://shahzadrasool.github.io/publications)
+<!-- [Home](https://shahzadrasool.github.io/) · [XR-HIVE](https://shahzadrasool.github.io/hive) · [Publications](https://shahzadrasool.github.io/publications) -->
 
 # XR-HIVE: SINES Lab for Research on Immersive Technologies
 
@@ -57,6 +57,7 @@ At the HIVE, we investigate avenues of multimodal interaction for developing enr
 | Member | Program | Since |
 |:---|:---|:---:|
 | **Amna Khan** | PhD CSE | 2022 |
+| **Naureen Mansoor** | PhD CSE | 2026 |
 | **Mian Shah Hassan** | MS IT | 2026 |
 | **Maryam Liaquat** | MS CSE | 2026 |
 | **Moeed Ahmed** | MS IT | 2026 |
@@ -68,7 +69,7 @@ At the HIVE, we investigate avenues of multimodal interaction for developing enr
 
 | Name | Years | Thesis / project |
 |:---|:---:|:---|
-| **Naureen Mansoor** <sub>MS CSE</sub> | 2025 – 2026 | An interactive game-based learning tool for mastering the periodic table |
+| **Naureen Mansoor** | 2025 – 2026 | An interactive game-based learning tool for mastering the periodic table |
 | **Warda Ayaz** | 2024 – 2025 | Human factors evaluations for virtual reality interactions using EEG |
 | **Muhammad Hamza Saleem** | 2024 – 2025 | Comparative Evaluation of Cybersickness Mitigation Techniques using a Unified Scoring System in VR |
 | **Hifsa Shahid** | 2024 – 2025 | Emotional Responses to Design Elements in Virtual Environments |
@@ -85,7 +86,7 @@ At the HIVE, we investigate avenues of multimodal interaction for developing enr
 | **Irsa Abbasi** | 2020 – 2023 | Developing a virtual reality approach towards a better understanding of different types of enzymes |
 | **Ahmad Javaid** | 2021 – 2022 | Analysis of vestibulo-ocular effects on motion sickness in flight simulation |
 | **Syeda Yumna Nasir** | 2020 – 2022 | Pseudo-haptic feedback through mid-air action for learning of chemical bond strengths |
-| **Hafsa Tahir** <sub>MS CSE</sub> | 2020 – 2022 | Force feedback for collision avoidance in UAV teleoperation through virtual corridors |
+| **Hafsa Tahir** | 2020 – 2022 | Force feedback for collision avoidance in UAV teleoperation through virtual corridors |
 | **Amna Khan** | 2021 | Game-induced emotion analysis using electroencephalography |
 | **Neelam Shoaib** | 2020 – 2021 | Virtual reality based procedural memorization of general aviation light aircraft |
 | **Attia Nafees ul Haq** | 2020 – 2021 | Pure mental state detection using EEG |
