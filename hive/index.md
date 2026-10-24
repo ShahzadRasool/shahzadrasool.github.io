@@ -6,7 +6,7 @@ title: Shahzad Rasool - Lab
 
 # XR-HIVE: SINES Lab for Research on Immersive Technologies
 
-[![Papers](https://img.shields.io/badge/Papers-28-6e56cf?style=flat-square)](https://shahzadrasool.github.io/publications) [![Funding](https://img.shields.io/badge/Funding-PKR%2073%2C505%2C783-0b7a5f?style=flat-square)](#research-funding) [![Members](https://img.shields.io/badge/Members-4%20current-3b5bdb?style=flat-square)](#lab-members) [![Alumni](https://img.shields.io/badge/Alumni-29-e8590c?style=flat-square)](#lab-members)
+[![Papers](https://img.shields.io/badge/Papers-28-6e56cf?style=flat-square)](https://shahzadrasool.github.io/publications) [![Funding](https://img.shields.io/badge/Funding-PKR%2073%2C505%2C783-0b7a5f?style=flat-square)](#research-funding) [![Members](https://img.shields.io/badge/Members-5%20current-3b5bdb?style=flat-square)](#lab-members) [![Alumni](https://img.shields.io/badge/Alumni-29-e8590c?style=flat-square)](#lab-members)
 
 **Jump to:** [Vision](#vision) · [Research focus](#research-focus) · [Funding](#research-funding) · [Members](#lab-members)
 
